@@ -164,7 +164,7 @@ body.splat-toggle .splat {
 }
 
 
-.ag-snow {position: absolute;
+.ag-snow {position: absolute !important;
   height: 562px; width: 1000px;
   background: transparent;
   -webkit-background-size: cover;
